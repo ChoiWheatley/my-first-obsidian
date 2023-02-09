@@ -6,5 +6,8 @@
   "calendar",
   "templater-obsidian",
   "obsidian-git",
-  "tag-wrangler"
+  "tag-wrangler",
+  "nldates-obsidian",
+  "note-refactor-obsidian",
+  "waypoint"
 ]
