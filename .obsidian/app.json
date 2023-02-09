@@ -1,5 +1,8 @@
 {
   "showFrontmatter": true,
   "promptDelete": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "alwaysUpdateLinks": true
 }

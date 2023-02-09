@@ -5,7 +5,7 @@ tag: dailynote
 ---
 # <% tp.file.title %>
 ## [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>|<<]] | <% tp.file.title %> | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %> | >> ]]
-### [[Habit Tracker]]  | [[Vision Board]] | [[TODO]] | [[Dashboard]] 
+### [[0050 Habit Tracker ⌚]]  | [[0060 Vision Board 🚀]] | [[TODO]] | [[Dashboard]] 
 ## 일정
 - 
 
