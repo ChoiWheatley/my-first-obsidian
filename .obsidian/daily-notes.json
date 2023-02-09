@@ -1,3 +1,5 @@
 {
-  "template": ""
+  "template": "Resources/Templates/TP-dailynotes",
+  "autorun": true,
+  "folder": "Daily Notes"
 }

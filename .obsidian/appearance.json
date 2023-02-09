@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "translucency": true,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "baseFontSize": 14
 }
