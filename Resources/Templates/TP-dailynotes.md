@@ -1,7 +1,7 @@
 ---
 title: <% tp.file.title %>
 created:  <% tp.file.creation_date() %>
-tag: #dailynote
+tags: #dailynote
 ---
 # <% tp.file.title %>
 ## [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>| <<]] | <% tp.file.title %> | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %> | >> ]]
