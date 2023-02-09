@@ -14,6 +14,8 @@ tag: ['DailyNote']
 
 << [[<% yesterday %>]] | [[<% tomorrow %>]]>>
 
+![[0000 Index 🔥]]
+
 ---
 ### 📅 Daily Questions
 
